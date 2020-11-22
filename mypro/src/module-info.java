@@ -1,0 +1,3 @@
+module mypro {
+	exports mypro;
+}
